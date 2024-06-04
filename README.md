@@ -78,7 +78,7 @@ We trained the following models for identifying whether a digit is a '5' or not.
  ![enter image description here](https://i.ibb.co/r4f50jg/Screenshot-2024-06-04-at-2-08-06-PM.png)
    - **Cross-validation (cv=3) Accuracy**: 
      ```
-     [Include accuracy scores here]
+     array([0.977 , 0.9738, 0.9739])
      ```
 
 2. **SGD Classifier**
